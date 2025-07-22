@@ -29,14 +29,12 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Firestore](https://skillicons.dev/icons?i=firebase)
-![Realtime Database](https://img.shields.io/badge/Firebase%20Realtime-%23FFA611?style=flat&logo=firebase&logoColor=white)
 
 #### 🛠️ Herramientas y DevOps
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
-![Zsh](https://img.shields.io/badge/ZSH-%2300B3A4?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
