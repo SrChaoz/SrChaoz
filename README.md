@@ -20,7 +20,7 @@
 ### Sobre mí
 
 - Ingeniero de software en formación, enfocado en construir productos que resuelven problemas reales de negocio
-- Diseñé y desarrollé desde cero el sistema de gestión para mi propio negocio; hoy lo estoy evolucionando hacia una plataforma multi-tenant
+- Diseñé y desarrollé desde cero el sistema de gestión para mi propio negocio de restauración; hoy lo estoy evolucionando hacia una plataforma multi-tenant
 - Combino experiencia operando un negocio real con desarrollo full-stack: entiendo tanto el código como el problema de negocio que resuelve
 - Me interesa el ciclo completo de un producto: de la idea al despliegue en producción
 
@@ -48,16 +48,16 @@
 ### Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrChaoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrChaoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrChaoz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrChaoz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrChaoz&theme=tokyonight&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=SrChaoz&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrChaoz&theme=minimal&hide_border=true&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrChaoz&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 <br/>
