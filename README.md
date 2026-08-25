@@ -29,18 +29,23 @@
 ### Tecnologías y herramientas
 
 **Lenguajes**
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
 
 **Frameworks y librerías**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind,flask,fastapi" />
 
 **Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=gcp,azure,vercel" />
 
 **Bases de datos**
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 
 **Herramientas y entorno**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,obsidian" />
 
 <br/>
