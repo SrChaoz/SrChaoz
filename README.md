@@ -48,8 +48,8 @@
 ### Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrChaoz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrChaoz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-ruby-beta-leiksn5v3p.vercel.app/api?username=SrChaoz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-ruby-beta-leiksn5v3p.vercel.app/api/top-langs/?username=SrChaoz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
