@@ -45,24 +45,15 @@
 
 <br/>
 
-### Estadísticas
+### Actividad de contribuciones
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby-beta-leiksn5v3p.vercel.app/api?username=SrChaoz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-ruby-beta-leiksn5v3p.vercel.app/api/top-langs/?username=SrChaoz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SrChaoz&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://raw.githubusercontent.com/SrChaoz/SrChaoz/main/github-metrics.svg" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrChaoz&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
-
-<br/>
-
-### Actividad de contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SrChaoz/SrChaoz/output/github-contribution-grid-snake-dark.svg" width="100%" />
